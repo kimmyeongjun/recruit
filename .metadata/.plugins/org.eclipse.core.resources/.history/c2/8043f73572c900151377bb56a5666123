@@ -1,0 +1,20 @@
+package com.samsung.ssm1_1;
+
+import java.util.Scanner;
+
+/*
+ * 2016.02.02
+ * by KMJ
+ */
+
+/*
+ * 숫자 n을 입력받고 n(0<n<=100)의 약수의 개수를 구하시오
+ */
+public class Main {
+	public int T;
+	public static void main(String[] args){
+		Scanner sc = new Scanner(System.in);
+		
+	}
+
+}
