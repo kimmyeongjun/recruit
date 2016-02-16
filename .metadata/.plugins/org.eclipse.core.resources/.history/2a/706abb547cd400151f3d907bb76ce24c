@@ -1,0 +1,5 @@
+package com.hansung.thread;
+
+public class TimerThreadFrame extends JFrame{
+
+}

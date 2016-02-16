@@ -2,4 +2,12 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="java.awt.Container"/>
+<fullyQualifiedTypeName name="java.awt.FlowLayout"/>
+<fullyQualifiedTypeName name="java.awt.Font"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="com.hansung.thread.TimerThread"/>
+<fullyQualifiedTypeName name="com.hansung.thread.TimerThreadFrame"/>
+<fullyQualifiedTypeName name="com.hansung.runnable.TimerRunnable"/>
 </qualifiedTypeNameHistroy>

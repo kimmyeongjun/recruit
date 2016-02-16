@@ -1,0 +1,12 @@
+package com.hansung.thread;
+
+import javax.swing.JLabel;
+
+class TimerThread extends Thread {
+	JLabel timerLabel;
+
+	public TimerThread(JLabel tiemrLabel) {
+		this.timerLabel = tiemrLabel;
+	}
+
+}

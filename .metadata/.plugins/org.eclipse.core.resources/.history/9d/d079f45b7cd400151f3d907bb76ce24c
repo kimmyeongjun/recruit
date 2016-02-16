@@ -1,0 +1,12 @@
+package com.hansung.thread;
+
+public class TimerThreadFrame extends JFrame{
+	public TimerThreadFrame(){
+		this.setT
+	}
+	
+	public static void main(String[] args){
+		
+	}
+
+}
