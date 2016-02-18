@@ -1,0 +1,8 @@
+
+public class InterfaceTest {
+
+}
+interface test{
+	public void num();
+	public void string();
+}

@@ -1,0 +1,11 @@
+
+public class FilePrint {
+	public static void main(String[] args){
+		
+	}
+	
+	public void print(String filepath) throw IOException{
+		File inputFile = new File(filepath);
+	}
+
+}

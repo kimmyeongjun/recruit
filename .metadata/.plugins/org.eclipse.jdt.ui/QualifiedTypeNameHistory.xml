@@ -10,4 +10,11 @@
 <fullyQualifiedTypeName name="com.hansung.thread.TimerThread"/>
 <fullyQualifiedTypeName name="com.hansung.thread.TimerThreadFrame"/>
 <fullyQualifiedTypeName name="com.hansung.runnable.TimerRunnable"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="DataSize"/>
+<fullyQualifiedTypeName name="DataSize.Person"/>
+<fullyQualifiedTypeName name="OverLoadTest"/>
+<fullyQualifiedTypeName name="java.awt.EventFilter.FilterAction"/>
+<fullyQualifiedTypeName name="SingleTone"/>
 </qualifiedTypeNameHistroy>

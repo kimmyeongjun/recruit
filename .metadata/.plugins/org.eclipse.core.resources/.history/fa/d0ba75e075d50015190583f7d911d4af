@@ -1,0 +1,20 @@
+
+public class InterfaceTest implements test{
+
+	@Override
+	public void num() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void string() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
+interface test{
+	public void num();
+	public void string();
+}

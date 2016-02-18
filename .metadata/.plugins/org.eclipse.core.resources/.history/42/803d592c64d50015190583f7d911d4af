@@ -1,0 +1,13 @@
+
+public class DataSize {
+	public static void main(String[] args) {
+
+		Person a = new Person();
+		a.name = "aa"	;
+		
+	}
+
+
+
+}
+

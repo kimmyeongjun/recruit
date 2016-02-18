@@ -1,0 +1,6 @@
+
+public class SingleTone {
+
+	private static SingleTone instance;
+	public SingleTone(){}
+}

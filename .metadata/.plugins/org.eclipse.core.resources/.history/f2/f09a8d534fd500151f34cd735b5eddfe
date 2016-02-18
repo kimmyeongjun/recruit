@@ -1,0 +1,10 @@
+
+public class SetValues {
+	public static void main(String[] args){
+		String stringObj = "Hello";
+		int intValue = 0;
+		Float floatObj = 1.0;
+		
+	}
+
+}

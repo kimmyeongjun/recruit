@@ -1,0 +1,15 @@
+class sample{
+	private String test;
+	public sample(String test){
+		this.test=test;
+	}
+}
+public class Test {
+
+	public static void main(String[] args){
+		sample a = new sample("aa");
+		sample b = new sample("aa");
+		
+		System.out.println(a==b);
+	}
+}

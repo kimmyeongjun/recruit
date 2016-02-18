@@ -1,0 +1,26 @@
+class sample{
+	private String test;
+	public sample(String test){
+		this.test=test;
+	}
+}
+public class Test {
+
+	public static void main(String[] args){
+		sample a = new sample("aa");
+		sample b = new sample("aa");
+		sample c = a;
+		
+		String firstName = "A";
+		String lastName= "A";
+		
+		String firstName2 = new String("B");
+		String lastName2 = new String("B");
+		
+		System.out.println();
+		
+		System.out.println(firstName ==lastName);
+		System.out.println();
+		System.out.println(firstName2==lastName2);
+	}
+}

@@ -1,0 +1,7 @@
+
+public class HandlerException {
+	public static void main(String[] args){
+		
+	}
+
+}

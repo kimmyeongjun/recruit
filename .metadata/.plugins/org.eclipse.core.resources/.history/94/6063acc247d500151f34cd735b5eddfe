@@ -1,0 +1,23 @@
+class sample{
+	private String test;
+	public sample(String test){
+		this.test=test;
+	}
+}
+public class Test {
+
+	public static void main(String[] args){
+		sample a = new sample("aa");
+		sample b = new sample("aa");
+		sample c = a;
+		System.out.println(a==b);
+		System.out.println(a==c);
+		
+		String firstName = "A";
+		String lastName= "B";
+		
+		String firstName2 = new String("A");
+		String lastName2 = new String("B");
+		System.out.println();
+	}
+}
