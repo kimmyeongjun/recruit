@@ -7,6 +7,8 @@ import java.util.Scanner;
  * by KMJ
  */
 //10진수 n을 입력 받고 n을 16진수로 변환하여 출력하시오.(단, 재귀함수를 사용할 것)
+
+
 public class Main {
 	private static int T;
 	private static int n[];

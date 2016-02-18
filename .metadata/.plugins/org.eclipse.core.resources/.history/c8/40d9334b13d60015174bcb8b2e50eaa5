@@ -1,0 +1,10 @@
+
+class sample{
+	public void get(){
+		
+	}
+}
+
+public class Overriding {
+
+}

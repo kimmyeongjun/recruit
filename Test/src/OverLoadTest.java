@@ -3,9 +3,7 @@ public class OverLoadTest {
 	
 	public static void main(String[] args){
 		new OverLoadTest().test();
-	
 		
-		int a = 4;
 		}
 	private void test(){
 		Fruit fruit = new Apple();

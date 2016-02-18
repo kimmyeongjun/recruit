@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class BS {
+	public int intArr[];
+	public Scanner sc;
+	public static void main(String[] args){
+		BS bs = new BS();
+		bs.start();
+	}
+	public void start(){
+		init();
+		run();
+	}
+	public void init(){
+		
+	}
+
+}

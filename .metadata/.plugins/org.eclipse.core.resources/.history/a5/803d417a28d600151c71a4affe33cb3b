@@ -1,0 +1,12 @@
+
+public class BS {
+	public static void main(String[] args){
+		BS bs = new BS();
+		bs.start();
+	}
+	public void start(){
+		init();
+		run();
+	}
+
+}

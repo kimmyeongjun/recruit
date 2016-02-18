@@ -1,0 +1,19 @@
+
+class testtest{
+	
+	public void get(){
+		System.out.println("부모");
+	}
+}
+
+public class Overriding extends testtest{
+	public static void main(String[] args){
+		testtest a = new Overriding();
+		a.get();
+	}
+	
+	public void get(){
+		System.out.println("자식");
+	}
+
+}

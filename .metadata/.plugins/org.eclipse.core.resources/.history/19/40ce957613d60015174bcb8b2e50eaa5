@@ -1,0 +1,14 @@
+
+class testtest{
+	
+	public void get(){
+		System.out.println("aa");
+	}
+}
+
+public class Overriding extends testtest{
+	public static void main(String[] args){
+		Overriding a = new testtest();
+	}
+
+}

@@ -1,0 +1,11 @@
+
+class testtest{
+	
+	public void get(){
+		System.out.println("aa");
+	}
+}
+
+public class Overriding {
+
+}

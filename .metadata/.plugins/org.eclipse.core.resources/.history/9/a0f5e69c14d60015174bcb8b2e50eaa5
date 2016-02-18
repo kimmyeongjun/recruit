@@ -1,0 +1,20 @@
+
+class parent{
+	
+	public void get(){
+		System.out.println("부모");
+	}
+}
+
+public class Overriding extends parent{
+	public static void main(String[] args){
+		parent a = new Overriding();
+		a.get();
+		a.get();
+	}
+	
+	public void get(){
+		System.out.println("자식");
+	}
+
+}
